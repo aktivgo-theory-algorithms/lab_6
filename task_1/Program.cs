@@ -13,7 +13,7 @@ namespace task_1
                 var y = i;
                 while (y >= 0)
                 {
-                    Console.WriteLine($@"Пара: ({x}, {y})");
+                    Console.WriteLine($"Пара: ({x}, {y})");
                     x++;
                     y--;
                 }
